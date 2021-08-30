@@ -9,7 +9,7 @@ exports.handler = async (event) => {
     {
       method: 'GET',
       headers: {
-        Authorization: `Client-ID ${process.env.JF1ndtsoslQA5vhSCydOnreNJ8XAOSJtC4EHLI3Z-Bs}`,
+        Authorization: `Client-ID ${process.env.ZQCv_oRMsFHh-2bZr2JO5rm1uMDkYnMLOQx4yLJ7Mws}`,
       },
     }
   )
